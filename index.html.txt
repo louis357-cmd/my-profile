@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Louis Dartois Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+
+    <div class="card-white text-center">
+      <h1>Hello, I'm Louis Dartois 😎</h1>
+      <img src="images/profile-picture.png" alt="Louis Dartois" class="img-circle" width="120">
+      <p>
+        I am a student at IESEG. I am interested in business, entrepreneurship, travel and sport.
+      </p>
+      <a href="#" class="btn-blue">Discover my profile</a>
+    </div>
+
+    <div class="card-white text-center">
+      <h2>Studies 🎓</h2>
+      <p>
+        I study at IESEG and I am developing my skills in business, communication and digital tools.
+      </p>
+    </div>
+
+    <div class="card-white text-center">
+      <h2>My passions ⚽✈️</h2>
+      <p>
+        I enjoy sport, travel, fashion and spending time with my friends.
+      </p>
+    </div>
+
+    <div class="card-white text-center">
+      <h2>Projects 🚀</h2>
+      <p>
+        I want to improve my web development skills and build a clean and professional online profile.
+      </p>
+    </div>
+
+    <div class="card-white text-center">
+      <h2>Follow me</h2>
+      <ul class="list-inline">
+        <li><a href="#">Instagram</a></li>
+        <li><a href="#">LinkedIn</a></li>
+        <li><a href="#">GitHub</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+</body>
+</html>
